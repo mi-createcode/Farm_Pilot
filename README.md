@@ -31,9 +31,6 @@ It integrates fragmented information to provide tailored crop recommendations, p
 ## 6. Team  
 - Minje Kim (PM), Yeji Kim (ML Engineer), Yeonmi Lee (AI Engineer & UI/UX), Jeonggyun Tak (AI Engineer), Jinwoo Jeon (Data Engineer)
 
-## 7. How to Run  
-(Brief setup and run instructions)
-
 ---
 # FarmPilot: 귀농인 맞춤 AI 길잡이 (전라도 MVP)
 
@@ -66,8 +63,4 @@ FarmPilot은 전라도 지역을 시작으로 귀농인들을 위한 AI 기반 �
 ## 6. Team  
 - 김민제(PM), 김예지(ML 엔지니어), 이연미(AI 엔지니어/UI), 탁정균(AI 엔지니어), 전진우(데이터 엔지니어)
 
-## 7. How to Run  
-(설치 및 실행법 간략히 안내)
-
----
 
