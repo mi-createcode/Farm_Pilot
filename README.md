@@ -34,7 +34,8 @@ It integrates fragmented information to provide tailored crop recommendations, p
 ## 7. How to Run  
 (Brief setup and run instructions)
 
----# FarmPilot: 귀농인 맞춤 AI 길잡이 (전라도 MVP)
+---
+# FarmPilot: 귀농인 맞춤 AI 길잡이 (전라도 MVP)
 
 ## 1. Project Overview  
 FarmPilot은 전라도 지역을 시작으로 귀농인들을 위한 AI 기반 맞춤형 안내 서비스입니다.  
